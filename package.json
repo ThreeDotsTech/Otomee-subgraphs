@@ -1,0 +1,23 @@
+{
+  "name": "otomee-subgraphs",
+  "version": "1.0.0",
+  "description": "subgraphs used by the otomee interface",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/subgraphs": "^0.1.8-5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThreeDotsTech/Otomee-subgraphs.git"
+  },
+  "author": "ThreeDots Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThreeDotsTech/Otomee-subgraphs/issues"
+  },
+  "homepage": "https://github.com/ThreeDotsTech/Otomee-subgraphs#readme"
+}
